@@ -17,7 +17,7 @@
 
 💡 Mi appassiona l'informatica e sto cercando **opportunità di lavoro** dove poter **crescere professionalmente**, imparare nuovi linguaggi e contribuire a progetti stimolanti.
 
-🔭 Attualmente sto esplorando nuove tecnologie e migliorando le mie basi in **JavaScript** e **Python**.
+🔭 Attualmente sto esplorando nuove tecnologie e migliorando le mie basi in **JavaScript**, **Python** e **Next.js**.
 
 ---
 
@@ -61,7 +61,5 @@
 
 ---
 
-<!--
-✨ Fun Fact: Il Common Core della 42 mi ha insegnato più di quanto potessi immaginare: dalla gestione della frustrazione, al lavoro in team, fino alla soddisfazione di far funzionare qualcosa dopo giorni di debug.
--->
+✨ Fun Fact: Il Common Core della 42 mi ha insegnato più di quanto potessi immaginare: dal lavoro in team, fino alla soddisfazione di far funzionare qualcosa dopo giorni di debug.
 
