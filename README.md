@@ -1,5 +1,3 @@
-# README.md
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW43NTM4eTF4cXF4NGRtdjQzOTNtc2UyN2Q3a25zYnBuZDV0bm1mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" width="400" height="110"/>
 </div>
